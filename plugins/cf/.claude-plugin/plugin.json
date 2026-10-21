@@ -1,0 +1,7 @@
+{
+  "name": "cf",
+  "description": "Makes Claude search the Crawling Fortunes knowledge base (cf-kb connector) before answering questions about Pivvy or the founders' books.",
+  "author": {
+    "name": "Nathan Simmons"
+  }
+}

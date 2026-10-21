@@ -1,0 +1,14 @@
+{
+  "name": "crawling-fortunes",
+  "description": "Plugins for the Crawling Fortunes team",
+  "owner": {
+    "name": "Nathan Simmons"
+  },
+  "plugins": [
+    {
+      "name": "cf",
+      "source": "./plugins/cf",
+      "description": "Makes Claude search the Crawling Fortunes knowledge base (cf-kb connector) before answering questions about Pivvy or the founders' books."
+    }
+  ]
+}
